@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Liweimin0512/mmall-fe.git"
+    "url": "git+https://github.com/Gshelterm/mmall-fe.git"
   },
-  "author": "weimin",
+  "author": "g",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Liweimin0512/mmall-fe/issues"
+    "url": "https://github.com/Gshelterm/mmall-fe/issues"
   },
-  "homepage": "https://github.com/Liweimin0512/mmall-fe#readme",
+  "homepage": "https://github.com/Gshelterm/mmall-fe#readme",
   "devDependencies": {
     "css-loader": "^0.28.4",
     "extract-text-webpack-plugin": "^1.0.1",
